@@ -1,5 +1,7 @@
 # aiida-coolcode
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/533648065ba3485d9a78a8d7e9353d9a)](https://app.codacy.com/app/kjappelbaum/aiida-ddec?utm_source=github.com&utm_medium=referral&utm_content=kjappelbaum/aiida-ddec&utm_campaign=Badge_Grade_Dashboard)
+
 a ddec plugin for AiiDA
 
 # Installation
